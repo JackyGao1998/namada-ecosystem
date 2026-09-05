@@ -1,6 +1,6 @@
 {
-    "script_start_time": "2026-09-05T02:13:06.545081+00:00Z",
-    "script_end_time": "2026-09-05T02:26:56.925447+00:00Z",
+    "script_start_time": "2026-09-05T07:00:55.206654+00:00Z",
+    "script_end_time": "2026-09-05T07:14:20.990685+00:00Z",
     "reference_latest_block_height": "7914106",
     "housefire_reference_latest_block_height": "0",
     "required_versions": {
@@ -172,7 +172,7 @@
                             "status": "up",
                             "version": "4.1.0",
                             "is_up_to_date": true,
-                            "latest_block_height": "7417449",
+                            "latest_block_height": "7417453",
                             "sync_state": "sync_nok"
                         },
                         {
