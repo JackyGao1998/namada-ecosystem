@@ -428,5 +428,19 @@
                 "new_value": "201.0.10"
             }
         ]
+    },
+    {
+        "timestamp": "2026-09-22T19:00:00.257457+00:00Z",
+        "changes": [
+            {
+                "team": "5ElementsNodes",
+                "service": "rpc",
+                "field": "namada_version",
+                "full_path": "namada.operator.5ElementsNodes.service.rpc.namada_version",
+                "type": "modified",
+                "old_value": "201.0.10",
+                "new_value": "201.0.11"
+            }
+        ]
     }
 ]
